@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "hSfgtut/7nEnZpiHBJHqqvqdeYl/vo2qXYRQec4S5xEQzUjOXw+K2UHqLkpvk7PLC1s2OBjGAUVyO9gWG5pkIw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\liaoj\\source\\repos\\Easy-Shot\\ScreenShoter.Wpf\\ScreenShoter.Wpf.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\liaoj\\.nuget\\packages\\materialdesigncolors\\1.2.1\\materialdesigncolors.1.2.1.nupkg.sha512",
+    "C:\\Users\\liaoj\\.nuget\\packages\\materialdesignthemes\\3.0.0\\materialdesignthemes.3.0.0.nupkg.sha512",
+    "C:\\Users\\liaoj\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\liaoj\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\liaoj\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\liaoj\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
